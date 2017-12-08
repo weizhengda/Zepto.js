@@ -1,5 +1,4 @@
 
-
 1. Zepto如何理解的？和jquery什么区别？
 
 * Zepto移动端的jquery。
